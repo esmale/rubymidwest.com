@@ -1,6 +1,8 @@
 # A sample Gemfile
 source "http://rubygems.org"
 
-gem 'rake', '0.8.7'
-gem 'rack', '1.2.2'
-gem 'heroku', '2.1.4'
+ruby '2.4.0'
+
+gem 'rake', '12.0.0'
+gem 'rack', '2.0.1'
+gem 'heroku', '3.43.9999'
